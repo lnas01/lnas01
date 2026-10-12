@@ -7,7 +7,7 @@ I am a Software Engineer and the CEO of **[LingTube](https://lingtube.net/)**, a
 ### 💻 About Me
 - 👀 **Interests:** Java, full-stack development, and machine learning.
 - 🚀 **Building in Public:** Focusing on international SaaS product development and AI productivity tools.
-- 🌐 **My Product:** Explore my project at the [LingTube Official Website](https://lingtube.net/).
+- 🌐 **My Product:** Explore my project at the [LingTube Official Website](https://chromewebstore.google.com/detail/lingtube-youtubenetflix-d/nnichceclhhahkielmnioahofoonefkm).
 
 ### 📫 How to Reach Me
 - 🐦 **X (Twitter):** [@chnwsw01](https://x.com/chnwsw01)
